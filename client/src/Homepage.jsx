@@ -11,7 +11,6 @@ export default function Homepage() {
       <Text m={"3%"}>
         Made with ❤️ by Me ({" "}
         <a target="_blank" href="https://prathamdev.netlify.app/">
-          {" "}
           Pratham
         </a>
         )
